@@ -1,0 +1,140 @@
+<svg width="700" height="600" viewBox="0 0 700 600" xmlns="http://www.w3.org/2000/svg"
+     font-family="'Helvetica Neue', Arial, sans-serif">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5"
+            markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,1.5 L9,5 L0,8.5 Z" fill="#475569"/>
+    </marker>
+    <marker id="arr-v" viewBox="0 0 10 10" refX="8" refY="5"
+            markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,1.5 L9,5 L0,8.5 Z" fill="#a78bfa"/>
+    </marker>
+
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1627"/>
+      <stop offset="100%" stop-color="#080d18"/>
+    </linearGradient>
+    <linearGradient id="img-g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1e3a5f"/>
+      <stop offset="100%" stop-color="#1d4a7a"/>
+    </linearGradient>
+    <linearGradient id="db-g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#134e4a"/>
+      <stop offset="100%" stop-color="#0f766e"/>
+    </linearGradient>
+    <linearGradient id="synth-g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#3b1a6e"/>
+      <stop offset="100%" stop-color="#5b21b6"/>
+    </linearGradient>
+    <linearGradient id="conv-g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1c1c3a"/>
+      <stop offset="100%" stop-color="#2a2a50"/>
+    </linearGradient>
+    <linearGradient id="model-g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1e3a8a"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+
+    <filter id="gp">
+      <feDropShadow dx="0" dy="0" stdDeviation="12" flood-color="#7c3aed" flood-opacity="0.35"/>
+    </filter>
+    <filter id="gb">
+      <feDropShadow dx="0" dy="0" stdDeviation="12" flood-color="#3b82f6" flood-opacity="0.35"/>
+    </filter>
+    <filter id="sh">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#000" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="700" height="600" fill="url(#bg)" rx="20"/>
+
+  <!-- ── SOURCE 1: Species Photos (left) ──────── -->
+  <rect x="40" y="36" width="270" height="110" rx="14"
+        fill="url(#img-g)" stroke="#3b82f6" stroke-width="1.5" filter="url(#sh)"/>
+  <rect x="40" y="36" width="270" height="26" rx="14" fill="#1e3a8a" opacity="0.65"/>
+  <rect x="40" y="51"  width="270" height="11"  fill="#1e3a8a" opacity="0.65"/>
+  <text x="175" y="51" font-size="10" font-weight="700" fill="#93c5fd"
+        text-anchor="middle" letter-spacing="1.5">SOURCE 1</text>
+  <text x="175" y="90" font-size="26" text-anchor="middle">📸</text>
+  <text x="175" y="116" font-size="15" font-weight="800" fill="#fff" text-anchor="middle">Species Photos</text>
+  <text x="175" y="134" font-size="11" fill="#7dd3fc" text-anchor="middle">real-world · research-grade</text>
+
+  <!-- ── SOURCE 2: Knowledge DB (right) ────────── -->
+  <rect x="390" y="36" width="270" height="110" rx="14"
+        fill="url(#db-g)" stroke="#14b8a6" stroke-width="1.5" filter="url(#sh)"/>
+  <rect x="390" y="36" width="270" height="26" rx="14" fill="#134e4a" opacity="0.65"/>
+  <rect x="390" y="51"  width="270" height="11"  fill="#134e4a" opacity="0.65"/>
+  <text x="525" y="51" font-size="10" font-weight="700" fill="#5eead4"
+        text-anchor="middle" letter-spacing="1.5">SOURCE 2</text>
+  <text x="525" y="90" font-size="26" text-anchor="middle">🗄️</text>
+  <text x="525" y="116" font-size="15" font-weight="800" fill="#fff" text-anchor="middle">Local DB</text>
+  <text x="525" y="134" font-size="11" fill="#99f6e4" text-anchor="middle">toxicity · habitat · range</text>
+
+  <!-- Arrows Sources → Synthesis -->
+  <!-- left source down-right -->
+  <path d="M 175 146 L 175 200 L 310 200 L 310 238"
+        fill="none" stroke="#475569" stroke-width="2"
+        stroke-dasharray="5,3" marker-end="url(#arr)"/>
+  <!-- right source down-left -->
+  <path d="M 525 146 L 525 200 L 390 200 L 390 238"
+        fill="none" stroke="#475569" stroke-width="2"
+        stroke-dasharray="5,3" marker-end="url(#arr)"/>
+
+  <!-- ── SYNTHESIS ───────────────────────────── -->
+  <rect x="150" y="243" width="400" height="100" rx="16"
+        fill="url(#synth-g)" stroke="#7c3aed" stroke-width="1.5" filter="url(#gp)"/>
+  <rect x="150" y="243" width="400" height="26" rx="16" fill="#3b1a6e" opacity="0.65"/>
+  <rect x="150" y="258" width="400" height="11"  fill="#3b1a6e" opacity="0.65"/>
+  <text x="350" y="258" font-size="10" font-weight="700" fill="#c4b5fd"
+        text-anchor="middle" letter-spacing="1.5">SYNTHESIS</text>
+  <text x="350" y="298" font-size="18" font-weight="800" fill="#fff" text-anchor="middle">
+    Rule Engine + LLM
+  </text>
+  <text x="350" y="320" font-size="12" fill="#c4b5fd" text-anchor="middle">
+    verdict logic · natural language generation
+  </text>
+
+  <!-- Arrow Synthesis → Conversations -->
+  <line x1="350" y1="343" x2="350" y2="383"
+        stroke="#a78bfa" stroke-width="2"
+        stroke-dasharray="5,3" marker-end="url(#arr-v)"/>
+
+  <!-- ── TRAINING CONVERSATIONS ────────────────── -->
+  <rect x="100" y="388" width="500" height="104" rx="16"
+        fill="url(#conv-g)" stroke="#6d28d9" stroke-width="1.5" filter="url(#gp)"/>
+  <rect x="100" y="388" width="500" height="26" rx="16" fill="#1c1c3a" opacity="0.8"/>
+  <rect x="100" y="403" width="500" height="11"  fill="#1c1c3a" opacity="0.8"/>
+  <text x="350" y="403" font-size="10" font-weight="700" fill="#c4b5fd"
+        text-anchor="middle" letter-spacing="1.5">OUTPUT</text>
+  <text x="350" y="440" font-size="18" font-weight="800" fill="#fff" text-anchor="middle">
+    Training Conversations
+  </text>
+  <text x="350" y="462" font-size="12" fill="#a78bfa" text-anchor="middle">
+    agentic tool-calling format
+  </text>
+  <!-- mini conversation mockup -->
+  <rect x="130" y="472" width="440" height="12" rx="4" fill="#2e2060" opacity="0.8"/>
+  <text x="142" y="481" font-size="8.5" fill="#818cf8">user: photo + context</text>
+  <rect x="280" y="472" width="1" height="12" fill="#475569" opacity="0.5"/>
+  <text x="292" y="481" font-size="8.5" fill="#60a5fa">→ tool call</text>
+  <rect x="360" y="472" width="1" height="12" fill="#475569" opacity="0.5"/>
+  <text x="372" y="481" font-size="8.5" fill="#2dd4bf">→ DB result</text>
+  <rect x="450" y="472" width="1" height="12" fill="#475569" opacity="0.5"/>
+  <text x="462" y="481" font-size="8.5" fill="#4ade80">→ verdict</text>
+
+  <!-- Arrow Conversations → Model -->
+  <line x1="350" y1="492" x2="350" y2="530"
+        stroke="#475569" stroke-width="2"
+        stroke-dasharray="5,3" marker-end="url(#arr)"/>
+
+  <!-- ── FINE-TUNED MODEL ───────────────────────── -->
+  <rect x="190" y="535" width="320" height="46" rx="12"
+        fill="url(#model-g)" stroke="#3b82f6" stroke-width="1.5" filter="url(#gb)"/>
+  <text x="350" y="555" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">
+    Fine-tuned Small Model
+  </text>
+  <text x="350" y="572" font-size="11" fill="#93c5fd" text-anchor="middle">
+    learns WHEN and HOW to act
+  </text>
+</svg>

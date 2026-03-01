@@ -1,0 +1,9 @@
+# HTTP client
+httpx>=0.27.0
+
+# Data handling
+pillow>=10.0.0
+
+# Google Cloud / Vertex AI
+google-auth>=2.0.0
+google-api-python-client>=2.0.0

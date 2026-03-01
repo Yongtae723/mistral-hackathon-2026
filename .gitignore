@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# HuggingFace
+*.bin
+*.safetensors
+*.gguf
+
+# Data (large files)
+data/train.jsonl
+data/val.jsonl
+data/test.jsonl
+data/*.jsonl.bak
+
+# Images
+images/
+special_image/
+test_image/
+data/imagefolder_dataset/
+
+# Data directory (large files / embedded git)
+data/
+
+# W&B local runs
+wandb/
+
+# Output
+outputs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db

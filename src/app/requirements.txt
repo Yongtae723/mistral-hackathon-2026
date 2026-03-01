@@ -1,0 +1,13 @@
+gradio>=5.0.0
+mistralai
+audioop-lts
+torch>=2.1.0
+transformers @ git+https://github.com/huggingface/transformers.git@bf3f0ae70d0e902efab4b8517fce88f6697636ce
+peft>=0.12.0
+pillow>=10.0.0
+bitsandbytes>=0.43.0
+accelerate>=0.34.0
+sentencepiece
+protobuf
+google-generativeai>=0.8.0
+huggingface_hub>=0.34.0

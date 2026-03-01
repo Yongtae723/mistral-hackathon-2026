@@ -1,0 +1,543 @@
+{
+  "Amanita phalloides": {
+    "scientific_name": "Amanita phalloides",
+    "common_name_en": "Death Cap",
+    "common_name_ja": "タマゴテングタケ",
+    "category": "mushroom",
+    "family": "Amanitaceae",
+    "edibility": "lethal",
+    "toxins": [
+      "amatoxin",
+      "phallotoxin"
+    ],
+    "toxicity_detail": "Causes liver and kidney failure. Lethal dose is a single cap. Symptoms delayed 6-12 hours.",
+    "symptoms": "Delayed onset (6-12h): severe GI distress, apparent recovery, then liver failure on day 3-5",
+    "first_aid": "Immediately go to hospital. Mention possible amatoxin ingestion. Do NOT induce vomiting without medical guidance.",
+    "lookalikes": [
+      {
+        "species": "Agaricus campestris",
+        "common_name": "Field Mushroom / ハラタケ",
+        "relation": "edible_lookalike",
+        "toxicity": "edible",
+        "distinguishing": "Death cap has white gills (not pink/brown), volva at base, greenish cap"
+      }
+    ],
+    "habitat": [
+      "broadleaf_forest",
+      "mixed_forest",
+      "parks"
+    ],
+    "substrate": "on_ground",
+    "season_months": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "distribution_lat_range": [
+      30,
+      55
+    ],
+    "altitude_range_m": [
+      0,
+      1200
+    ],
+    "key_features": "Green to yellow cap, white gills, skirt-like ring, cup-like volva at base",
+    "size_cm": "5-15 cap diameter",
+    "survival_verdict": "LETHAL",
+    "survival_note": "One of the world's most dangerous mushrooms. Responsible for 90% of mushroom poisoning deaths worldwide."
+  },
+  "Amanita virosa": {
+    "scientific_name": "Amanita virosa",
+    "common_name_en": "Destroying Angel",
+    "common_name_ja": "シロタマゴテングタケ",
+    "category": "mushroom",
+    "family": "Amanitaceae",
+    "edibility": "lethal",
+    "toxins": [
+      "amatoxin",
+      "phallotoxin"
+    ],
+    "toxicity_detail": "Contains deadly amatoxins. Even small amounts can be fatal within days.",
+    "symptoms": "Nausea, vomiting, diarrhea, liver failure, death within 2-7 days",
+    "first_aid": "EMERGENCY HOSPITAL. This is life-threatening. Do not induce vomiting.",
+    "lookalikes": [],
+    "habitat": [
+      "conifer_forest",
+      "mixed_forest"
+    ],
+    "substrate": "on_ground",
+    "season_months": [
+      8,
+      9,
+      10
+    ],
+    "distribution_lat_range": [
+      40,
+      60
+    ],
+    "altitude_range_m": [
+      200,
+      1500
+    ],
+    "key_features": "Pure white cap and stem, ring, volva at base, white gills",
+    "size_cm": "5-15 cm tall",
+    "survival_verdict": "LETHAL",
+    "survival_note": "Completely white Amanita. Every part is deadly. Never consume."
+  },
+  "Galerina marginata": {
+    "scientific_name": "Galerina marginata",
+    "common_name_en": "Deadly Galerina",
+    "common_name_ja": "猛毒カキノタケ",
+    "category": "mushroom",
+    "family": "Cortinariaceae",
+    "edibility": "lethal",
+    "toxins": [
+      "orellanine",
+      "gyromitrin"
+    ],
+    "toxicity_detail": "Contains orellanine which causes kidney failure. Lethal within days.",
+    "symptoms": "Thirst, nausea, vomiting, kidney pain, renal failure",
+    "first_aid": "IMMEDIATE MEDICAL CARE. Kidney failure can be fatal. Do not induce vomiting.",
+    "lookalikes": [
+      {
+        "species": "Armillaria mellea",
+        "common_name": "Honey Mushroom / ナラタケ",
+        "relation": "edible_lookalike",
+        "toxicity": "edible",
+        "distinguishing": "Galerina has rusty-brown spore print, grows on wood, smaller cap"
+      }
+    ],
+    "habitat": [
+      "broadleaf_forest",
+      "on_wood"
+    ],
+    "substrate": "on_wood",
+    "season_months": [
+      9,
+      10,
+      11
+    ],
+    "distribution_lat_range": [
+      35,
+      60
+    ],
+    "altitude_range_m": [
+      0,
+      1000
+    ],
+    "key_features": "Small brown cap with lighter margin, rusty brown gills, grows on conifer wood",
+    "size_cm": "2-5 cm cap diameter",
+    "survival_verdict": "LETHAL",
+    "survival_note": "Small brown mushroom that can be confused with edible species. Deadly."
+  },
+  "Aconitum napellus": {
+    "scientific_name": "Aconitum napellus",
+    "common_name_en": "Monkshood / Wolfsbane",
+    "common_name_ja": "トリカブト",
+    "category": "plant",
+    "family": "Ranunculaceae",
+    "edibility": "lethal",
+    "toxins": [
+      "aconitine",
+      "hypaconitine"
+    ],
+    "toxicity_detail": "One of most toxic plants in Europe. Lethal dose is as low as 2-4 mg of aconitine.",
+    "symptoms": "Burning sensation in mouth, vomiting, diarrhea, muscle weakness, cardiac arrest",
+    "first_aid": "CALL EMERGENCY IMMEDIATELY. This is a life-threatening poisoning. Do not induce vomiting.",
+    "lookalikes": [
+      {
+        "species": "Delphinium elatum",
+        "common_name": "Larkspur / オオヒエンソウ",
+        "relation": "similar",
+        "toxicity": "poisonous",
+        "distinguishing": "Delphinium has spurred flowers, Aconitum has helmet-shaped flowers"
+      }
+    ],
+    "habitat": [
+      "mountain_slopes",
+      "woodland_edges",
+      "meadows"
+    ],
+    "substrate": "",
+    "season_months": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "distribution_lat_range": [
+      45,
+      60
+    ],
+    "altitude_range_m": [
+      500,
+      2500
+    ],
+    "key_features": "Dark blue to purple helmet-shaped flowers in dense spikes",
+    "size_cm": "50-150 cm tall",
+    "survival_verdict": "LETHAL",
+    "survival_note": "Lethal poison. Never consume any part of this plant."
+  },
+  "Cicuta virosa": {
+    "scientific_name": "Cicuta virosa",
+    "common_name_en": "Water Hemlock",
+    "common_name_ja": "ドクゼリ",
+    "category": "plant",
+    "family": "Apiaceae",
+    "edibility": "lethal",
+    "toxins": [
+      "cicutoxin"
+    ],
+    "toxicity_detail": "Cicutoxin is a violent convulsant poison. Death can occur within 15 minutes to 6 hours.",
+    "symptoms": "Nausea, vomiting, abdominal pain, seizures, respiratory failure",
+    "first_aid": "EMERGENCY IMMEDIATE. This poison can kill in minutes. Call 911 immediately.",
+    "lookalikes": [
+      {
+        "species": "Oenanthe javanica",
+        "common_name": "Water Dropwort / セリ",
+        "relation": "edible_lookalike",
+        "toxicity": "edible",
+        "distinguishing": "Cicuta has hollow chambered rhizome with septa; Oenanthe has solid rhizome and distinct aroma"
+      }
+    ],
+    "habitat": [
+      "wetland",
+      "riverside",
+      "stream_banks"
+    ],
+    "substrate": "",
+    "season_months": [
+      5,
+      6,
+      7
+    ],
+    "distribution_lat_range": [
+      35,
+      65
+    ],
+    "altitude_range_m": [
+      0,
+      500
+    ],
+    "key_features": "White umbelliferous flowers, hollow stem with purple spots, hollow chambered rhizome",
+    "size_cm": "100-200 cm tall",
+    "survival_verdict": "LETHAL",
+    "survival_note": "Japan's three most toxic plants. Can be confused with edible water dropwort."
+  },
+  "Veratrum album": {
+    "scientific_name": "Veratrum album",
+    "common_name_en": "White Hellebore",
+    "common_name_ja": "バイケイソウ",
+    "category": "plant",
+    "family": "Melanthiaceae",
+    "edibility": "lethal",
+    "toxins": [
+      "protoveratrine",
+      "veratridine"
+    ],
+    "toxicity_detail": "Contains potent alkaloids that affect heart and nervous system.",
+    "symptoms": "Vomiting, diarrhea, cardiac arrhythmia, respiratory depression",
+    "first_aid": "IMMEDIATE MEDICAL ATTENTION. Do not induce vomiting.",
+    "lookalikes": [
+      {
+        "species": "Allium victorialis",
+        "common_name": "Victory Onion / ギョウジャニンニク",
+        "relation": "edible_lookalike",
+        "toxicity": "edible",
+        "distinguishing": "Allium has onion/garlic odor; Veratrum has no smell and distinct leaf arrangement"
+      }
+    ],
+    "habitat": [
+      "meadows",
+      "subalpine",
+      "pastures"
+    ],
+    "substrate": "",
+    "season_months": [
+      6,
+      7,
+      8
+    ],
+    "distribution_lat_range": [
+      40,
+      65
+    ],
+    "altitude_range_m": [
+      800,
+      2500
+    ],
+    "key_features": "Tall plant with large leaves and greenish-white flowers in dense clusters",
+    "size_cm": "100-200 cm tall",
+    "survival_verdict": "LETHAL",
+    "survival_note": "Toxic. Can be confused with wild onion. No onion smell is key difference."
+  },
+  "Cantharellus cibarius": {
+    "scientific_name": "Cantharellus cibarius",
+    "common_name_en": "Golden Chanterelle",
+    "common_name_ja": "アミタケ",
+    "category": "mushroom",
+    "family": "Cantharellaceae",
+    "edibility": "edible",
+    "toxins": [],
+    "toxicity_detail": "None",
+    "symptoms": "None",
+    "first_aid": "",
+    "lookalikes": [
+      {
+        "species": "Omphalotus olearius",
+        "common_name": "Jack-o'-lantern / ツキヨタケ",
+        "relation": "toxic_lookalike",
+        "toxicity": "poisonous",
+        "distinguishing": "Chanterelle has ridges instead of gills, false gills that fork; Jack-o'-lantern has true gills"
+      }
+    ],
+    "habitat": [
+      "broadleaf_forest",
+      "mixed_forest",
+      "conifer_forest"
+    ],
+    "substrate": "on_ground",
+    "season_months": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "distribution_lat_range": [
+      30,
+      65
+    ],
+    "altitude_range_m": [
+      0,
+      1500
+    ],
+    "key_features": "Golden to yellow-orange cap with wavy edge, false gills (ridges), fruity aroma",
+    "size_cm": "3-10 cm cap diameter",
+    "survival_verdict": "SAFE",
+    "survival_note": "One of the most prized edible mushrooms. Check for false gills vs ridges to avoid toxic lookalike."
+  },
+  "Boletus edulis": {
+    "scientific_name": "Boletus edulis",
+    "common_name_en": "Porcini / Penny Bun",
+    "common_name_ja": "ヤマドリタケ",
+    "category": "mushroom",
+    "family": "Boletaceae",
+    "edibility": "edible",
+    "toxins": [],
+    "toxicity_detail": "None",
+    "symptoms": "None",
+    "first_aid": "",
+    "lookalikes": [
+      {
+        "species": "Boletus satanas",
+        "common_name": "Devil's Bolete / ドクヤマドタケ",
+        "relation": "toxic_lookalike",
+        "toxicity": "poisonous",
+        "distinguishing": "Boletus satanas has yellow/red coloration that turns blue when bruised"
+      }
+    ],
+    "habitat": [
+      "broadleaf_forest",
+      "mixed_forest"
+    ],
+    "substrate": "on_ground",
+    "season_months": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "distribution_lat_range": [
+      35,
+      65
+    ],
+    "altitude_range_m": [
+      0,
+      1200
+    ],
+    "key_features": "Brown to reddish-brown cap, white tubes that don't change color when bruised, bulbous stem",
+    "size_cm": "7-30 cm cap diameter",
+    "survival_verdict": "SAFE",
+    "survival_note": "Premium edible mushroom. Check color doesn't change to blue when cut."
+  },
+  "Grifola frondosa": {
+    "scientific_name": "Grifola frondosa",
+    "common_name_en": "Hen of the Woods",
+    "common_name_ja": "マイタケ",
+    "category": "mushroom",
+    "family": "Meripilaceae",
+    "edibility": "edible",
+    "toxins": [],
+    "toxicity_detail": "None",
+    "symptoms": "None",
+    "first_aid": "",
+    "lookalikes": [],
+    "habitat": [
+      "broadleaf_forest",
+      "on_tree"
+    ],
+    "substrate": "on_tree",
+    "season_months": [
+      9,
+      10,
+      11
+    ],
+    "distribution_lat_range": [
+      30,
+      50
+    ],
+    "altitude_range_m": [
+      0,
+      1000
+    ],
+    "key_features": "Large cluster of brown fan-shaped caps, grayish underside, growing at base of oak trees",
+    "size_cm": "10-100 cm total cluster",
+    "survival_verdict": "SAFE",
+    "survival_note": "Distinctive appearance makes it easy to identify. Excellent edible."
+  },
+  "Oenanthe javanica": {
+    "scientific_name": "Oenanthe javanica",
+    "common_name_en": "Water Dropwort",
+    "common_name_ja": "セリ",
+    "category": "plant",
+    "family": "Apiaceae",
+    "edibility": "edible",
+    "toxins": [],
+    "toxicity_detail": "None",
+    "symptoms": "None",
+    "first_aid": "",
+    "edible_parts": [
+      "young_shoots",
+      "leaves",
+      "roots"
+    ],
+    "preparation_required": "Cook thoroughly. Young shoots can be eaten raw with caution.",
+    "lookalikes": [
+      {
+        "species": "Cicuta virosa",
+        "common_name": "Water Hemlock / ドクゼリ",
+        "relation": "toxic_lookalike",
+        "toxicity": "lethal",
+        "distinguishing": "Cicuta has hollow chambered rhizome with septa; Oenanthe has solid rhizome and distinct aroma"
+      }
+    ],
+    "habitat": [
+      "wetland",
+      "riverside",
+      "shallow_water"
+    ],
+    "substrate": "",
+    "season_months": [
+      3,
+      4,
+      5,
+      10
+    ],
+    "distribution_lat_range": [
+      25,
+      45
+    ],
+    "altitude_range_m": [
+      0,
+      1000
+    ],
+    "key_features": "Hollow stems, compound leaves with toothed edges, grows in shallow water",
+    "size_cm": "30-80 cm tall",
+    "survival_verdict": "DO_NOT_EAT",
+    "survival_note": "Edible but has lethal lookalike (Water Hemlock). Cannot distinguish from photo alone. DO NOT EAT unless expert."
+  },
+  "Allium victorialis": {
+    "scientific_name": "Allium victorialis",
+    "common_name_en": "Victory Onion",
+    "common_name_ja": "ギョウジャニンニク",
+    "category": "plant",
+    "family": "Amaryllidaceae",
+    "edibility": "edible",
+    "toxins": [],
+    "toxicity_detail": "None",
+    "symptoms": "None",
+    "first_aid": "",
+    "edible_parts": [
+      "leaves",
+      "bulbs"
+    ],
+    "preparation_required": "Can be eaten raw or cooked. Traditional Japanese mountain vegetable.",
+    "lookalikes": [
+      {
+        "species": "Veratrum album",
+        "common_name": "White Hellebore / バイケイソウ",
+        "relation": "toxic_lookalike",
+        "toxicity": "lethal",
+        "distinguishing": "Allium has onion/garlic odor when crushed; Veratrum has no smell"
+      }
+    ],
+    "habitat": [
+      "meadows",
+      "alpine",
+      "mountain_slopes"
+    ],
+    "substrate": "",
+    "season_months": [
+      5,
+      6
+    ],
+    "distribution_lat_range": [
+      35,
+      60
+    ],
+    "altitude_range_m": [
+      1000,
+      2500
+    ],
+    "key_features": "Broad leaves, onion-like bulb, distinct onion/garlic aroma when crushed",
+    "size_cm": "20-50 cm tall",
+    "survival_verdict": "DO_NOT_EAT",
+    "survival_note": "Edible but has lethal lookalike (White Hellebore). Check for onion smell. If unsure, DO NOT EAT."
+  },
+  "Artemisia indica": {
+    "scientific_name": "Artemisia indica",
+    "common_name_en": "Mugwort",
+    "common_name_ja": "ヨモギ",
+    "category": "plant",
+    "family": "Asteraceae",
+    "edibility": "edible",
+    "toxins": [],
+    "toxicity_detail": "None (in moderate amounts)",
+    "symptoms": "None",
+    "first_aid": "",
+    "edible_parts": [
+      "young_leaves",
+      "shoots"
+    ],
+    "preparation_required": "Young leaves can be eaten in tempura or added to rice. Older leaves bitter.",
+    "lookalikes": [],
+    "habitat": [
+      "roadsides",
+      "fields",
+      "waste_areas"
+    ],
+    "substrate": "",
+    "season_months": [
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "distribution_lat_range": [
+      25,
+      45
+    ],
+    "altitude_range_m": [
+      0,
+      2000
+    ],
+    "key_features": "Silvery-green leaves (white underside), aromatic when crushed, yellow flowers in autumn",
+    "size_cm": "50-150 cm tall",
+    "survival_verdict": "SAFE",
+    "survival_note": "Common wild edible. Low risk of misidentification. Distinctive aroma."
+  }
+}

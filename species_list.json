@@ -1,0 +1,1322 @@
+[
+  {
+    "scientific_name": "Amanita phalloides",
+    "common_name_en": "Death Cap",
+    "common_name_ja": "タマゴテングタケ",
+    "category": "mushroom",
+    "subcategory": "lethal_poisonous",
+    "priority": "highest"
+  },
+  {
+    "scientific_name": "Amanita virosa",
+    "common_name_en": "Destroying Angel",
+    "common_name_ja": "シロタマゴテングタケ",
+    "category": "mushroom",
+    "subcategory": "lethal_poisonous",
+    "priority": "highest"
+  },
+  {
+    "scientific_name": "Amanita verna",
+    "common_name_en": "Fool's Mushroom",
+    "common_name_ja": "シロタマゴテングタケ（春発生型）",
+    "category": "mushroom",
+    "subcategory": "lethal_poisonous",
+    "priority": "highest"
+  },
+  {
+    "scientific_name": "Amanita bisporigera",
+    "common_name_en": "Eastern Destroying Angel",
+    "common_name_ja": "ヒメシロタマゴテングタケ",
+    "category": "mushroom",
+    "subcategory": "lethal_poisonous",
+    "priority": "highest"
+  },
+  {
+    "scientific_name": "Amanita ocreata",
+    "common_name_en": "Western Destroying Angel",
+    "common_name_ja": "アメリカシロタマゴテングタケ",
+    "category": "mushroom",
+    "subcategory": "lethal_poisonous",
+    "priority": "highest"
+  },
+  {
+    "scientific_name": "Galerina marginata",
+    "common_name_en": "Deadly Galerina",
+    "common_name_ja": "ツキヨタケ（※注意：実際はカキノタケ科）",
+    "category": "mushroom",
+    "subcategory": "lethal_poisonous",
+    "priority": "highest"
+  },
+  {
+    "scientific_name": "Galerina venenata",
+    "common_name_en": "Poisonous Galerina",
+    "common_name_ja": "猛毒カキノタケ",
+    "category": "mushroom",
+    "subcategory": "lethal_poisonous",
+    "priority": "highest"
+  },
+  {
+    "scientific_name": "Cortinarius rubellus",
+    "common_name_en": "Deadly Webcap",
+    "common_name_ja": "カキシメジ",
+    "category": "mushroom",
+    "subcategory": "lethal_poisonous",
+    "priority": "highest"
+  },
+  {
+    "scientific_name": "Cortinarius orellanus",
+    "common_name_en": "Orellana Webcap",
+    "common_name_ja": "ニセカキシメジ",
+    "category": "mushroom",
+    "subcategory": "lethal_poisonous",
+    "priority": "highest"
+  },
+  {
+    "scientific_name": "Lepiota brunneoincarnata",
+    "common_name_en": "Deadly Dapperling",
+    "common_name_ja": "コレラタケ",
+    "category": "mushroom",
+    "subcategory": "lethal_poisonous",
+    "priority": "highest"
+  },
+  {
+    "scientific_name": "Lepiota josserandii",
+    "common_name_en": "Darker-spored Dapperling",
+    "common_name_ja": "ヒメコレラタケ",
+    "category": "mushroom",
+    "subcategory": "lethal_poisonous",
+    "priority": "highest"
+  },
+  {
+    "scientific_name": "Gyromitra esculenta",
+    "common_name_en": "False Morel",
+    "common_name_ja": "ショウロ",
+    "category": "mushroom",
+    "subcategory": "lethal_poisonous",
+    "priority": "highest"
+  },
+  {
+    "scientific_name": "Gyromitra infula",
+    "common_name_en": "Hooded False Morel",
+    "common_name_ja": "ヒメショウロ",
+    "category": "mushroom",
+    "subcategory": "lethal_poisonous",
+    "priority": "highest"
+  },
+  {
+    "scientific_name": "Paxilla involutus",
+    "common_name_en": "Brown Roll-rim",
+    "common_name_ja": "アンズタケ",
+    "category": "mushroom",
+    "subcategory": "lethal_poisonous",
+    "priority": "highest"
+  },
+  {
+    "scientific_name": "Clitocybe rivulosa",
+    "common_name_en": "False Funnel",
+    "common_name_ja": "ツキヨタケ（※注意：異なる種）",
+    "category": "mushroom",
+    "subcategory": "lethal_poisonous",
+    "priority": "highest"
+  },
+  {
+    "scientific_name": "Clitocybe dealbata",
+    "common_name_en": "Ivory Funnel",
+    "common_name_ja": "シロナメコ",
+    "category": "mushroom",
+    "subcategory": "lethal_poisonous",
+    "priority": "highest"
+  },
+  {
+    "scientific_name": "Entoloma sinuatum",
+    "common_name_en": "Lead Poisoner",
+    "common_name_ja": "イッポンシメジ",
+    "category": "mushroom",
+    "subcategory": "lethal_poisonous",
+    "priority": "highest"
+  },
+  {
+    "scientific_name": "Entoloma rhodopolium",
+    "common_name_en": "Wood Pinkgill",
+    "common_name_ja": "クサウラベニタケ",
+    "category": "mushroom",
+    "subcategory": "lethal_poisonous",
+    "priority": "highest"
+  },
+  {
+    "scientific_name": "Boletus satanas",
+    "common_name_en": "Devil's Bolete",
+    "common_name_ja": "ドクヤマドタケ",
+    "category": "mushroom",
+    "subcategory": "lethal_poisonous",
+    "priority": "highest"
+  },
+  {
+    "scientific_name": "Podostroma cornu-damae",
+    "common_name_en": "Fire Coral Fungus",
+    "common_name_ja": "カエンタケ",
+    "category": "mushroom",
+    "subcategory": "lethal_poisonous",
+    "priority": "highest"
+  },
+  {
+    "scientific_name": "Lampteromyces japonicus",
+    "common_name_en": "Japanese Jack-o'-lantern",
+    "common_name_ja": "ツキヨタケ",
+    "category": "mushroom",
+    "subcategory": "lethal_poisonous",
+    "priority": "highest"
+  },
+  {
+    "scientific_name": "Armillaria mellea",
+    "common_name_en": "Honey Mushroom",
+    "common_name_ja": "ナラタケ",
+    "category": "mushroom",
+    "subcategory": "conditionally_dangerous",
+    "priority": "high"
+  },
+  {
+    "scientific_name": "Armillaria gallica",
+    "common_name_en": "Bulbous Honey Mushroom",
+    "common_name_ja": "チョッキナラタケ",
+    "category": "mushroom",
+    "subcategory": "conditionally_dangerous",
+    "priority": "high"
+  },
+  {
+    "scientific_name": "Macrolepiota procera",
+    "common_name_en": "Parasol Mushroom",
+    "common_name_ja": "カラハツタケ",
+    "category": "mushroom",
+    "subcategory": "conditionally_dangerous",
+    "priority": "high"
+  },
+  {
+    "scientific_name": "Chlorophyllum molybdites",
+    "common_name_en": "Green-spored Parasol",
+    "common_name_ja": "ドクカラハツタケ",
+    "category": "mushroom",
+    "subcategory": "lethal_poisonous",
+    "priority": "high"
+  },
+  {
+    "scientific_name": "Chlorophyllum brunneum",
+    "common_name_en": "Brown Parasol",
+    "common_name_ja": "チャドクカラハツタケ",
+    "category": "mushroom",
+    "subcategory": "dangerous",
+    "priority": "high"
+  },
+  {
+    "scientific_name": "Agaricus xanthodermus",
+    "common_name_en": "Yellow-stainer",
+    "common_name_ja": "ドクハラタケ",
+    "category": "mushroom",
+    "subcategory": "dangerous",
+    "priority": "high"
+  },
+  {
+    "scientific_name": "Agaricus placomyces",
+    "common_name_en": "Flat-capped Agaricus",
+    "common_name_ja": "ニセイロガワシ",
+    "category": "mushroom",
+    "subcategory": "dangerous",
+    "priority": "high"
+  },
+  {
+    "scientific_name": "Agaricus pilatianus",
+    "common_name_en": "Carpophyll Agaricus",
+    "common_name_ja": "ツチドクハラタケ",
+    "category": "mushroom",
+    "subcategory": "dangerous",
+    "priority": "high"
+  },
+  {
+    "scientific_name": "Volvariella volvacea",
+    "common_name_en": "Paddy Straw Mushroom",
+    "common_name_ja": "フクロタケ",
+    "category": "mushroom",
+    "subcategory": "conditionally_dangerous",
+    "priority": "high"
+  },
+  {
+    "scientific_name": "Volvariella speciosa",
+    "common_name_en": "Spring Volvariella",
+    "common_name_ja": "ハルフクロタケ",
+    "category": "mushroom",
+    "subcategory": "dangerous",
+    "priority": "high"
+  },
+  {
+    "scientific_name": "Amanita rubescens",
+    "common_name_en": "Blusher",
+    "common_name_ja": "イボテングタケ",
+    "category": "mushroom",
+    "subcategory": "conditionally_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Amanita spissa",
+    "common_name_en": "Gray American Star-footed Amanita",
+    "common_name_ja": "コフキテングタケ",
+    "category": "mushroom",
+    "subcategory": "dangerous",
+    "priority": "high"
+  },
+  {
+    "scientific_name": "Amanita pantherina",
+    "common_name_en": "Panther Cap",
+    "common_name_ja": "テングタケ",
+    "category": "mushroom",
+    "subcategory": "dangerous",
+    "priority": "high"
+  },
+  {
+    "scientific_name": "Amanita muscaria",
+    "common_name_en": "Fly Agaric",
+    "common_name_ja": "ベニテングタケ",
+    "category": "mushroom",
+    "subcategory": "dangerous",
+    "priority": "high"
+  },
+  {
+    "scientific_name": "Amanita citrina",
+    "common_name_en": "False Death Cap",
+    "common_name_ja": "キテングタケ",
+    "category": "mushroom",
+    "subcategory": "dangerous",
+    "priority": "high"
+  },
+  {
+    "scientific_name": "Morchella esculenta",
+    "common_name_en": "Morel",
+    "common_name_ja": "アミガサタケ",
+    "category": "mushroom",
+    "subcategory": "conditionally_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Morchella conica",
+    "common_name_en": "Black Morel",
+    "common_name_ja": "クロアミガサタケ",
+    "category": "mushroom",
+    "subcategory": "conditionally_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Morchella deliciosa",
+    "common_name_en": "Delicious Morel",
+    "common_name_ja": "エゾアミガサタケ",
+    "category": "mushroom",
+    "subcategory": "conditionally_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Boletus edulis",
+    "common_name_en": "Porcini / Penny Bun",
+    "common_name_ja": "ヤマドリタケ",
+    "category": "mushroom",
+    "subcategory": "safe_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Boletus aereus",
+    "common_name_en": "Bronze Bolete",
+    "common_name_ja": "シイロタケ",
+    "category": "mushroom",
+    "subcategory": "safe_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Boletus pinophilus",
+    "common_name_en": "Pine Bolete",
+    "common_name_ja": "アカヤマドリタケ",
+    "category": "mushroom",
+    "subcategory": "safe_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Suillus luteus",
+    "common_name_en": "Slippery Jack",
+    "common_name_ja": "ヌメリスギタケ",
+    "category": "mushroom",
+    "subcategory": "conditionally_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Suillus granulatus",
+    "common_name_en": "Slippery Bolete",
+    "common_name_ja": "アカヌメリスギタケ",
+    "category": "mushroom",
+    "subcategory": "conditionally_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Cantharellus cibarius",
+    "common_name_en": "Golden Chanterelle",
+    "common_name_ja": "アミタケ",
+    "category": "mushroom",
+    "subcategory": "safe_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Cantharellus tubaeformis",
+    "common_name_en": "Winter Chanterelle",
+    "common_name_ja": "エリンギ（※注意：実際は異なる種）",
+    "category": "mushroom",
+    "subcategory": "safe_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Craterellus cornucopioides",
+    "common_name_en": "Horn of Plenty",
+    "common_name_ja": "クロカバイロタケ",
+    "category": "mushroom",
+    "subcategory": "safe_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Grifola frondosa",
+    "common_name_en": "Hen of the Woods",
+    "common_name_ja": "マイタケ",
+    "category": "mushroom",
+    "subcategory": "safe_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Laetiporus sulphureus",
+    "common_name_en": "Chicken of the Woods",
+    "common_name_ja": "サカハチタケ",
+    "category": "mushroom",
+    "subcategory": "conditionally_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Sparassis crispa",
+    "common_name_en": "Cauliflower Fungus",
+    "common_name_ja": "ハナビラタケ",
+    "category": "mushroom",
+    "subcategory": "safe_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Pleurotus ostreatus",
+    "common_name_en": "Oyster Mushroom",
+    "common_name_ja": "ヒラタケ",
+    "category": "mushroom",
+    "subcategory": "safe_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Pleurotus eryngii",
+    "common_name_en": "King Oyster",
+    "common_name_ja": "エリンギ",
+    "category": "mushroom",
+    "subcategory": "safe_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Lentinula edodes",
+    "common_name_en": "Shiitake",
+    "common_name_ja": "シイタケ",
+    "category": "mushroom",
+    "subcategory": "safe_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Tricholoma matsutake",
+    "common_name_en": "Matsutake",
+    "common_name_ja": "マツタケ",
+    "category": "mushroom",
+    "subcategory": "safe_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Hypsizygus tessulatus",
+    "common_name_en": "Buna-shimeji",
+    "common_name_ja": "ブナシメジ",
+    "category": "mushroom",
+    "subcategory": "safe_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Hypsizygus marmoreus",
+    "common_name_en": "Beech Mushroom",
+    "common_name_ja": "ブナピー",
+    "category": "mushroom",
+    "subcategory": "safe_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Flammulina velutipes",
+    "common_name_en": "Enoki",
+    "common_name_ja": "エノキタケ",
+    "category": "mushroom",
+    "subcategory": "safe_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Pholiota microspora",
+    "common_name_en": "Nameko",
+    "common_name_ja": "ナメコ",
+    "category": "mushroom",
+    "subcategory": "safe_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Lactarius deliciosus",
+    "common_name_en": "Saffron Milkcap",
+    "common_name_ja": "チチタケ",
+    "category": "mushroom",
+    "subcategory": "conditionally_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Lactarius volemus",
+    "common_name_en": "Weeping Milkcap",
+    "common_name_ja": "トモシメジ",
+    "category": "mushroom",
+    "subcategory": "conditionally_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Russula vesca",
+    "common_name_en": "Foodie Tricholoma",
+    "common_name_ja": "ハツ",
+    "category": "mushroom",
+    "subcategory": "safe_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Russula cyanoxantha",
+    "common_name_en": "Charcoal Burner",
+    "common_name_ja": "クロハツ",
+    "category": "mushroom",
+    "subcategory": "safe_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Russula virescens",
+    "common_name_en": "Green Russula",
+    "common_name_ja": "アオハツ",
+    "category": "mushroom",
+    "subcategory": "safe_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Russula emetica",
+    "common_name_en": "Sickener",
+    "common_name_ja": "ニセハツ",
+    "category": "mushroom",
+    "subcategory": "dangerous",
+    "priority": "high"
+  },
+  {
+    "scientific_name": "Russula nitida",
+    "common_name_en": "Powdery Brittlegill",
+    "common_name_ja": "アカモミハツ",
+    "category": "mushroom",
+    "subcategory": "conditionally_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Tricholoma bakamatsutake",
+    "common_name_en": "False Matsutake",
+    "common_name_ja": "バカマツタケ",
+    "category": "mushroom",
+    "subcategory": "dangerous",
+    "priority": "high"
+  },
+  {
+    "scientific_name": "Tricholoma equestre",
+    "common_name_en": "Man on Horseback",
+    "common_name_ja": "シロソウメンタケ",
+    "category": "mushroom",
+    "subcategory": "dangerous",
+    "priority": "high"
+  },
+  {
+    "scientific_name": "Agaricus campestris",
+    "common_name_en": "Field Mushroom",
+    "common_name_ja": "ハラタケ",
+    "category": "mushroom",
+    "subcategory": "safe_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Agaricus arvensis",
+    "common_name_en": "Horse Mushroom",
+    "common_name_ja": "オオハラタケ",
+    "category": "mushroom",
+    "subcategory": "safe_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Agaricus bisporus",
+    "common_name_en": "Button Mushroom",
+    "common_name_ja": "マッシュルーム",
+    "category": "mushroom",
+    "subcategory": "safe_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Cortinarius caperatus",
+    "common_name_en": "Gypsy Mushroom",
+    "common_name_ja": "ウスキハツ",
+    "category": "mushroom",
+    "subcategory": "conditionally_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Calvatia gigantea",
+    "common_name_en": "Giant Puffball",
+    "common_name_ja": "オオチャワンタケ",
+    "category": "mushroom",
+    "subcategory": "safe_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Calvatia excipuliformis",
+    "common_name_en": "Stalked Puffball",
+    "common_name_ja": "ナガチャワンタケ",
+    "category": "mushroom",
+    "subcategory": "safe_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Sarcodon imbricatus",
+    "common_name_en": "Shingled Hedgehog",
+    "common_name_ja": "ヤマイグチ",
+    "category": "mushroom",
+    "subcategory": "conditionally_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Hydnum repandum",
+    "common_name_en": "Wood Hedgehog",
+    "common_name_ja": "ハリイグチ",
+    "category": "mushroom",
+    "subcategory": "safe_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Hygrophorus russula",
+    "common_name_en": "Variable Waxy Cap",
+    "common_name_ja": "ベニニガイグチ",
+    "category": "mushroom",
+    "subcategory": "dangerous",
+    "priority": "high"
+  },
+  {
+    "scientific_name": "Stropharia rugosoannulata",
+    "common_name_en": "Wine Cap",
+    "common_name_ja": "スワンシメジ",
+    "category": "mushroom",
+    "subcategory": "safe_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Coprinus comatus",
+    "common_name_en": "Shaggy Ink Cap",
+    "common_name_ja": "サクラシメジ",
+    "category": "mushroom",
+    "subcategory": "safe_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Coprinopsis atramentaria",
+    "common_name_en": "Common Ink Cap",
+    "common_name_ja": "インキタケ",
+    "category": "mushroom",
+    "subcategory": "conditionally_dangerous",
+    "priority": "high"
+  },
+  {
+    "scientific_name": "Auricularia auricula-judae",
+    "common_name_en": "Wood Ear",
+    "common_name_ja": "キクラゲ",
+    "category": "mushroom",
+    "subcategory": "safe_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Tremella fuciformis",
+    "common_name_en": "Snow Fungus",
+    "common_name_ja": "シロキクラゲ",
+    "category": "mushroom",
+    "subcategory": "safe_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Amanita caesarea",
+    "common_name_en": "Caesar's Mushroom",
+    "common_name_ja": "オウギタケ",
+    "category": "mushroom",
+    "subcategory": "safe_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Amanita jacksonii",
+    "common_name_en": "American Caesar's Mushroom",
+    "common_name_ja": "アメリカオウギタケ",
+    "category": "mushroom",
+    "subcategory": "conditionally_dangerous",
+    "priority": "high"
+  },
+  {
+    "scientific_name": "Pleurotus pulmonarius",
+    "common_name_en": "Phoenix Mushroom",
+    "common_name_ja": "アワビタケ",
+    "category": "mushroom",
+    "subcategory": "safe_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Lyophyllum shimeji",
+    "common_name_en": "Shimeji",
+    "common_name_ja": "ホンシメジ",
+    "category": "mushroom",
+    "subcategory": "safe_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Hypholoma lateritium",
+    "common_name_en": "Brick Tuft",
+    "common_name_ja": "ニガイグチ",
+    "category": "mushroom",
+    "subcategory": "dangerous",
+    "priority": "high"
+  },
+  {
+    "scientific_name": "Hypholoma fasciculare",
+    "common_name_en": "Sulphur Tuft",
+    "common_name_ja": "スギヒラタケ",
+    "category": "mushroom",
+    "subcategory": "dangerous",
+    "priority": "high"
+  },
+  {
+    "scientific_name": "Inocybe fastigiata",
+    "common_name_en": "Trooping Inocybe",
+    "common_name_ja": "ヒダハタケ",
+    "category": "mushroom",
+    "subcategory": "dangerous",
+    "priority": "high"
+  },
+  {
+    "scientific_name": "Hebeloma mesophaeum",
+    "common_name_en": "Poison Pie",
+    "common_name_ja": "サクラシメジ（※注意：異なる種）",
+    "category": "mushroom",
+    "subcategory": "dangerous",
+    "priority": "high"
+  },
+  {
+    "scientific_name": "Boletus luridus",
+    "common_name_en": "Lurid Bolete",
+    "common_name_ja": "ニセイロガワシ",
+    "category": "mushroom",
+    "subcategory": "dangerous",
+    "priority": "high"
+  },
+  {
+    "scientific_name": "Boletus pseudosulphureus",
+    "common_name_en": "False Larch Bolete",
+    "common_name_ja": "ニセタマゴタケ",
+    "category": "mushroom",
+    "subcategory": "dangerous",
+    "priority": "high"
+  },
+  {
+    "scientific_name": "Russula fragrantissima",
+    "common_name_en": "Fragrant Russula",
+    "common_name_ja": "ベニハツ",
+    "category": "mushroom",
+    "subcategory": "dangerous",
+    "priority": "high"
+  },
+  {
+    "scientific_name": "Russula xerampelina",
+    "common_name_en": "Crab Brittlegill",
+    "common_name_ja": "ヒメニセハツ",
+    "category": "mushroom",
+    "subcategory": "dangerous",
+    "priority": "high"
+  },
+  {
+    "scientific_name": "Tricholoma fulvum",
+    "common_name_en": "Yellowing Tricholoma",
+    "common_name_ja": "ニセマツタケ",
+    "category": "mushroom",
+    "subcategory": "dangerous",
+    "priority": "high"
+  },
+  {
+    "scientific_name": "Tricholoma scalpturatum",
+    "common_name_en": "Sooty Tricholoma",
+    "common_name_ja": "シロソウメンタケ（※注意：異なる種）",
+    "category": "mushroom",
+    "subcategory": "dangerous",
+    "priority": "high"
+  },
+  {
+    "scientific_name": "Tricholoma aurantium",
+    "common_name_en": "Orange Tricholoma",
+    "common_name_ja": "キシメジ",
+    "category": "mushroom",
+    "subcategory": "dangerous",
+    "priority": "high"
+  },
+  {
+    "scientific_name": "Laccaria laccata",
+    "common_name_en": "Deceiver",
+    "common_name_ja": "チチタケ（※注意：異なる種）",
+    "category": "mushroom",
+    "subcategory": "safe_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Laccaria amethystina",
+    "common_name_en": "Amethyst Deceiver",
+    "common_name_ja": "ムラサキチチタケ",
+    "category": "mushroom",
+    "subcategory": "conditionally_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Ramaria botrytis",
+    "common_name_en": "Coral Mushroom",
+    "common_name_ja": "サンゴハリタケ",
+    "category": "mushroom",
+    "subcategory": "conditionally_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Artemisia indica",
+    "common_name_en": "Mugwort",
+    "common_name_ja": "ヨモギ",
+    "category": "plant",
+    "subcategory": "common_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Oenanthe javanica",
+    "common_name_en": "Water Dropwort",
+    "common_name_ja": "セリ",
+    "category": "plant",
+    "subcategory": "common_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Pteridium aquilinum",
+    "common_name_en": "Bracken Fern",
+    "common_name_ja": "ワラビ",
+    "category": "plant",
+    "subcategory": "conditionally_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Allium victorialis",
+    "common_name_en": "Victory Onion",
+    "common_name_ja": "ギョウジャニンニク",
+    "category": "plant",
+    "subcategory": "common_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Aralia elata",
+    "common_name_en": "Japanese Angelica Tree",
+    "common_name_ja": "タラノキ（タラノ芽）",
+    "category": "plant",
+    "subcategory": "common_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Hosta sieboldiana",
+    "common_name_en": "Hosta",
+    "common_name_ja": "ウルイ",
+    "category": "plant",
+    "subcategory": "common_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Urtica thunbergiana",
+    "common_name_en": "Japanese Nettle",
+    "common_name_ja": "イラクサ",
+    "category": "plant",
+    "subcategory": "common_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Petasites japonicus",
+    "common_name_en": "Butterbur",
+    "common_name_ja": "フキ",
+    "category": "plant",
+    "subcategory": "common_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Farfugium japonicum",
+    "common_name_en": "Leopard Plant",
+    "common_name_ja": "ツワブキ",
+    "category": "plant",
+    "subcategory": "common_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Reynoutria japonica",
+    "common_name_en": "Japanese Knotweed",
+    "common_name_ja": "イタドリ",
+    "category": "plant",
+    "subcategory": "common_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Cardiocrinum cordatum",
+    "common_name_en": "Heartleaf Lily",
+    "common_name_ja": "ウバユリ",
+    "category": "plant",
+    "subcategory": "common_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Lilium auratum",
+    "common_name_en": "Golden-rayed Lily",
+    "common_name_ja": "ヤマユリ",
+    "category": "plant",
+    "subcategory": "common_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Arisaema serratum",
+    "common_name_en": "Japanese Jack-in-the-pulpit",
+    "common_name_ja": "テンナンショウ",
+    "category": "plant",
+    "subcategory": "conditionally_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Arisaema ringens",
+    "common_name_en": "Jack-in-the-pulpit",
+    "common_name_ja": "ムサシアブミ",
+    "category": "plant",
+    "subcategory": "dangerous",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Arisaema triphyllum",
+    "common_name_en": "Green Dragon",
+    "common_name_ja": "アメリカテンナンショウ",
+    "category": "plant",
+    "subcategory": "dangerous",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Colocasia esculenta",
+    "common_name_en": "Taro",
+    "common_name_ja": "サトイモ",
+    "category": "plant",
+    "subcategory": "conditionally_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Alocasia odora",
+    "common_name_en": "Giant Elephant Ear",
+    "common_name_ja": "クワズイモ",
+    "category": "plant",
+    "subcategory": "dangerous",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Aconitum japonicum",
+    "common_name_en": "Japanese Monkshood",
+    "common_name_ja": "トリカブト",
+    "category": "plant",
+    "subcategory": "dangerous_poisonous",
+    "priority": "highest"
+  },
+  {
+    "scientific_name": "Aconitum kusnezoffii",
+    "common_name_en": "Kusnezoff Monkshood",
+    "common_name_ja": "オクトリカブト",
+    "category": "plant",
+    "subcategory": "dangerous_poisonous",
+    "priority": "highest"
+  },
+  {
+    "scientific_name": "Cicuta virosa",
+    "common_name_en": "Water Hemlock",
+    "common_name_ja": "ドクゼリ",
+    "category": "plant",
+    "subcategory": "dangerous_poisonous",
+    "priority": "highest"
+  },
+  {
+    "scientific_name": "Cicuta maculata",
+    "common_name_en": "Spotted Water Hemlock",
+    "common_name_ja": "アメリカドクゼリ",
+    "category": "plant",
+    "subcategory": "dangerous_poisonous",
+    "priority": "highest"
+  },
+  {
+    "scientific_name": "Scopolia japonica",
+    "common_name_en": "Japanese Belladonna",
+    "common_name_ja": "ハシリドコロ",
+    "category": "plant",
+    "subcategory": "dangerous_poisonous",
+    "priority": "highest"
+  },
+  {
+    "scientific_name": "Convallaria keiskei",
+    "common_name_en": "Japanese Lily of the Valley",
+    "common_name_ja": "スズラン",
+    "category": "plant",
+    "subcategory": "dangerous_poisonous",
+    "priority": "highest"
+  },
+  {
+    "scientific_name": "Veratrum album",
+    "common_name_en": "White Hellebore",
+    "common_name_ja": "バイケイソウ",
+    "category": "plant",
+    "subcategory": "dangerous_poisonous",
+    "priority": "highest"
+  },
+  {
+    "scientific_name": "Veratrum stamineum",
+    "common_name_en": "Asian White Hellebore",
+    "common_name_ja": "コバイケイソウ",
+    "category": "plant",
+    "subcategory": "dangerous_poisonous",
+    "priority": "highest"
+  },
+  {
+    "scientific_name": "Veratrum nigrum",
+    "common_name_en": "Black Hellebore",
+    "common_name_ja": "クロバイケイソウ",
+    "category": "plant",
+    "subcategory": "dangerous_poisonous",
+    "priority": "highest"
+  },
+  {
+    "scientific_name": "Nerium oleander",
+    "common_name_en": "Oleander",
+    "common_name_ja": "キョウチクトウ",
+    "category": "plant",
+    "subcategory": "dangerous_poisonous",
+    "priority": "highest"
+  },
+  {
+    "scientific_name": "Taxus cuspidata",
+    "common_name_en": "Japanese Yew",
+    "common_name_ja": "イチイ",
+    "category": "plant",
+    "subcategory": "dangerous_poisonous",
+    "priority": "highest"
+  },
+  {
+    "scientific_name": "Actaea pachypoda",
+    "common_name_en": "White Baneberry",
+    "common_name_ja": "ルイヨウショウマ",
+    "category": "plant",
+    "subcategory": "dangerous_poisonous",
+    "priority": "highest"
+  },
+  {
+    "scientific_name": "Actaea rubra",
+    "common_name_en": "Red Baneberry",
+    "common_name_ja": "アメリカルイヨウショウマ",
+    "category": "plant",
+    "subcategory": "dangerous_poisonous",
+    "priority": "highest"
+  },
+  {
+    "scientific_name": "Anemone flaccida",
+    "common_name_en": "Soft Windflower",
+    "common_name_ja": "ニリンソウ",
+    "category": "plant",
+    "subcategory": "edible_toxic_lookalike",
+    "priority": "highest"
+  },
+  {
+    "scientific_name": "Anemone altaica",
+    "common_name_en": "Altai Windflower",
+    "common_name_ja": "オオニリンソウ",
+    "category": "plant",
+    "subcategory": "edible_toxic_lookalike",
+    "priority": "highest"
+  },
+  {
+    "scientific_name": "Houttuynia cordata",
+    "common_name_en": "Fish Mint",
+    "common_name_ja": "ドクダミ",
+    "category": "plant",
+    "subcategory": "conditionally_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Cimicifuga simplex",
+    "common_name_en": "Japanese Bugbane",
+    "common_name_ja": "サラシナショウマ",
+    "category": "plant",
+    "subcategory": "dangerous",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Aconitum lycoctonum",
+    "common_name_en": "Wolf's Bane",
+    "common_name_ja": "レイジンソウ",
+    "category": "plant",
+    "subcategory": "dangerous_poisonous",
+    "priority": "highest"
+  },
+  {
+    "scientific_name": "Delphinium elatum",
+    "common_name_en": "Larkspur",
+    "common_name_ja": "オオヒエンソウ",
+    "category": "plant",
+    "subcategory": "dangerous",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Ranunculus japonicus",
+    "common_name_en": "Japanese Buttercup",
+    "common_name_ja": "キンポウゲ",
+    "category": "plant",
+    "subcategory": "dangerous",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Sanguisorba officinalis",
+    "common_name_en": "Great Burnet",
+    "common_name_ja": "ワレモコウ",
+    "category": "plant",
+    "subcategory": "conditionally_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Sanguisorba tenuifolia",
+    "common_name_en": "Narrowleaf Burnet",
+    "common_name_ja": "ワレモコウ（ヒメ種）",
+    "category": "plant",
+    "subcategory": "conditionally_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Aruncus dioicus",
+    "common_name_en": "Goat's Beard",
+    "common_name_ja": "サラシナショウマ（※注意：異なる種）",
+    "category": "plant",
+    "subcategory": "conditionally_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Astilbe rivularis",
+    "common_name_en": "Japanese Astilbe",
+    "common_name_ja": "アワモリショウマ",
+    "category": "plant",
+    "subcategory": "dangerous",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Polygonum tinctorium",
+    "common_name_en": "Chinese Indigo",
+    "common_name_ja": "アイ",
+    "category": "plant",
+    "subcategory": "conditionally_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Rheum palmatum",
+    "common_name_en": "Turkey Rhubarb",
+    "common_name_ja": "ダイオウ",
+    "category": "plant",
+    "subcategory": "conditionally_dangerous",
+    "priority": "high"
+  },
+  {
+    "scientific_name": "Rumex acetosa",
+    "common_name_en": "Sorrel",
+    "common_name_ja": "スイバ",
+    "category": "plant",
+    "subcategory": "conditionally_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Chenopodium album",
+    "common_name_en": "Lamb's Quarters",
+    "common_name_ja": "シロザ",
+    "category": "plant",
+    "subcategory": "common_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Spinacia oleracea",
+    "common_name_en": "Spinach",
+    "common_name_ja": "ホウレンソウ",
+    "category": "plant",
+    "subcategory": "common_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Taraxacum officinale",
+    "common_name_en": "Dandelion",
+    "common_name_ja": "タンポポ",
+    "category": "plant",
+    "subcategory": "common_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Cichorium intybus",
+    "common_name_en": "Chicory",
+    "common_name_ja": "キクニガナ",
+    "category": "plant",
+    "subcategory": "common_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Lactuca sativa",
+    "common_name_en": "Lettuce",
+    "common_name_ja": "レタス",
+    "category": "plant",
+    "subcategory": "common_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Lactuca indica",
+    "common_name_en": "Indian Lettuce",
+    "common_name_ja": "ニガナ",
+    "category": "plant",
+    "subcategory": "conditionally_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Youngia japonica",
+    "common_name_en": "Japanese Hawkweed",
+    "common_name_ja": "オニタビラコ",
+    "category": "plant",
+    "subcategory": "common_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Ixeris dentata",
+    "common_name_en": "Korean Lettuce",
+    "common_name_ja": "ニガナ（※注意：異なる種）",
+    "category": "plant",
+    "subcategory": "common_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Ixeris stolonifera",
+    "common_name_en": "Stoloniferous Ixeris",
+    "common_name_ja": "オニタビラコ（※注意：異なる種）",
+    "category": "plant",
+    "subcategory": "common_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Osmunda japonica",
+    "common_name_en": "Japanese Royal Fern",
+    "common_name_ja": "ゼンマイ",
+    "category": "plant",
+    "subcategory": "conditionally_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Osmundastrum cinnamomeum",
+    "common_name_en": "Cinnamon Fern",
+    "common_name_ja": "アメリカゼンマイ",
+    "category": "plant",
+    "subcategory": "conditionally_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Matteuccia struthiopteris",
+    "common_name_en": "Ostrich Fern",
+    "common_name_ja": "コウライワラビ",
+    "category": "plant",
+    "subcategory": "conditionally_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Dryopteris crassirhizoma",
+    "common_name_en": "Shield Fern",
+    "common_name_ja": "オオイワヒバ",
+    "category": "plant",
+    "subcategory": "dangerous",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Dryopteris filix-mas",
+    "common_name_en": "Male Fern",
+    "common_name_ja": "オナガイワヒバ",
+    "category": "plant",
+    "subcategory": "conditionally_dangerous",
+    "priority": "high"
+  },
+  {
+    "scientific_name": "Blechnum niponicum",
+    "common_name_en": "Japanese Hard Fern",
+    "common_name_ja": "コウライイワヒバ",
+    "category": "plant",
+    "subcategory": "dangerous",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Phegopteris decursive-pinnata",
+    "common_name_en": "Long Beech Fern",
+    "common_name_ja": "シシガシラ",
+    "category": "plant",
+    "subcategory": "dangerous",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Dennstaedtia punctilobula",
+    "common_name_en": "Hayscented Fern",
+    "common_name_ja": "アメリカウラジロ",
+    "category": "plant",
+    "subcategory": "conditionally_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Equisetum arvense",
+    "common_name_en": "Field Horsetail",
+    "common_name_ja": "スギナ",
+    "category": "plant",
+    "subcategory": "conditionally_edible",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Equisetum hyemale",
+    "common_name_en": "Rough Horsetail",
+    "common_name_ja": "トクサ",
+    "category": "plant",
+    "subcategory": "dangerous",
+    "priority": "medium"
+  },
+  {
+    "scientific_name": "Adiantum pedatum",
+    "common_name_en": "Northern Maidenhair Fern",
+    "common_name_ja": "クジャクシダ",
+    "category": "plant",
+    "subcategory": "ambiguous",
+    "priority": "high"
+  },
+  {
+    "scientific_name": "Athyrium yokoscense",
+    "common_name_en": "Asian Lady Fern",
+    "common_name_ja": "イワデンダ",
+    "category": "plant",
+    "subcategory": "ambiguous",
+    "priority": "high"
+  },
+  {
+    "scientific_name": "Thelypteris palustris",
+    "common_name_en": "Marsh Fern",
+    "common_name_ja": "ミズワラビ",
+    "category": "plant",
+    "subcategory": "ambiguous",
+    "priority": "high"
+  }
+]
