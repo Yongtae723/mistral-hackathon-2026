@@ -98,23 +98,10 @@ iNaturalist (7,900+ images)     Google Gemini 2.5 Flash
 ```
 ├── src/
 │   ├── app/                        # Gradio demo app (HF Spaces)
-│   │   └── app.py
 │   ├── data-prep/                  # Training data pipeline
-│   │   ├── 01_download_images.py   # iNaturalist API → images
-│   │   ├── 02_generate_species_db_vertex.py  # LLM → species_db.json
-│   │   ├── 03_generate_training_data_vertex.py  # Rule engine + LLM → train.jsonl
-│   │   └── 04_upload_to_hf.py
-│   ├── train/
-│   │   └── train.py                # QLoRA fine-tuning
-│   └── eval/
-│       └── eval.py                 # Weave 3-way evaluation
-├── notebooks/
-│   └── inference_colab.ipynb       # Colab inference + eval notebook
-├── artifacts/                      # LoRA adapter config
-├── architecture.svg                # Architecture diagram
-├── training_data.svg               # Training pipeline diagram
-├── slides.md                       # Marp presentation
-├── wandb_report.md                 # W&B report
+│   ├── train/                      # QLoRA fine-tuning
+│   └── eval/                       # Weave 3-way evaluation
+├── notebooks/                      # Colab inference + eval notebook
 └── requirements.txt
 ```
 
